@@ -26,7 +26,13 @@ source example-02/demo0.vim
 source example-03/demo0.vim
 ```
 
-#### subscribe
+#### Add a command for opening terminal, whose cwd is the cwd of the current opening file
+
+```vim
+source example-04/demo0.vim
+```
+
+#### Subscribe
 
 [RSS](https://github.com/jinmiaoluo/vimplay/commits/master.atom)
 
