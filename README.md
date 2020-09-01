@@ -6,7 +6,7 @@ Begin to have fun with vim
 - Open this repository in your vim
 - Copy this `source example-01/demo.vim` string into your clipboard and execute `:@"<CR>` Ex command in your vim or
 - Navigate to filename `example-01/demo0.vim`, use `<C-w>sgf` normal command open file in a seperate window, execute Ex command `:source %` (abbreviation: `:so %`) to run the script
-- Execute `<C-w>c` to close the newly created window, and continue to explore demos from `README.md`
+  - Execute `<C-w>c` to close the newly created window, and continue to explore demos from `README.md`
 
 #### Query the absolute path of the current file
 
@@ -19,3 +19,14 @@ source example-01/demo0.vim
 ```vim
 source example-02/demo0.vim
 ```
+
+#### Open terminal, And set the current directory to the folder where the current opened file locates in
+
+```vim
+source example-03/demo0.vim
+```
+
+#### subscribe
+
+[RSS](https://github.com/jinmiaoluo/vimplay/commits/master.atom)
+
