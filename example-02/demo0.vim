@@ -1,0 +1,1 @@
+echo expand('%:p:h')
