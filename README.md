@@ -34,5 +34,5 @@ source example-04/demo0.vim
 
 #### Subscribe
 
-[RSS](https://github.com/jinmiaoluo/vimplay/commits/master.atom)
+[RSS](https://github.com/jinmiaoluo/vimplay/commits/main.atom)
 
